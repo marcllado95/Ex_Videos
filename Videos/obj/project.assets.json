@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marc\\Desktop\\IT Academy\\.NET\\Videos\\Videos\\Videos.csproj",
+      "projectUniqueName": "C:\\Users\\Marc\\Desktop\\copia_proyecto_git\\Ex_Videos\\Videos\\Videos.csproj",
       "projectName": "Videos",
-      "projectPath": "C:\\Users\\Marc\\Desktop\\IT Academy\\.NET\\Videos\\Videos\\Videos.csproj",
+      "projectPath": "C:\\Users\\Marc\\Desktop\\copia_proyecto_git\\Ex_Videos\\Videos\\Videos.csproj",
       "packagesPath": "C:\\Users\\Marc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marc\\Desktop\\IT Academy\\.NET\\Videos\\Videos\\obj\\",
+      "outputPath": "C:\\Users\\Marc\\Desktop\\copia_proyecto_git\\Ex_Videos\\Videos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

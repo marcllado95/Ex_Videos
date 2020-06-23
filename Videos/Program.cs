@@ -26,7 +26,6 @@ namespace Videos
                     if (User.Password == password)
                     {
                         Console.WriteLine("Login successful \n");
-                       // User.ShowInfo();
                         return true;
                     }
                     else

@@ -18,7 +18,7 @@ namespace Videos.Lib.Models
         {
             this.Videos_List = new List<Video>();
         }
-        public User(string userid, string name, string surname, string password)      //esto es un constructor
+        public User(string userid, string name, string surname, string password)      //this is a constructor
         {
             this.UserID = userid;
             this.Name = name;

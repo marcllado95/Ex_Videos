@@ -23,15 +23,6 @@ namespace Videos.Lib.Models
         {
             Tags.Add(tag);
         }
-        /*
-        public enum Mediaplayer
-        {
-            Play = 'p',
-            Pause = 'k',
-            Stop = 's'
-        }
-        */
-
     }
 }
 
